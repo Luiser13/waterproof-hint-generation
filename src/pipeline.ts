@@ -1,0 +1,1 @@
+// Placeholder for hint generation integration (so repo shows typescript on the badge)

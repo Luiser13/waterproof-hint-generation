@@ -24,5 +24,5 @@ Extended a formal proof-writing system with context-conditioned hint generation,
 
 ## Notes 
 The underlying repository is privately hosted and not under my ownership, so I cannot share the code publicly.
-Developed under the supervision of Jim Portegies (TU Eindhoven). 
+Developed under the supervision of Jim Portegies (TU Eindhoven) in 2024. 
 I’m happy to discuss my contributions in detail.
